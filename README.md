@@ -2,6 +2,8 @@
 
 Project for Digital Expertise. 
 
+Game: https://sophia-i.github.io/memory-game/
+
 Context: This was my first JavaScript project. I have some previous experience with Scratch projects and Python, and wanted to try Javascript for this project. 
 
 How: As I had very little understanding of JavaScript prior to this project, I followed a FreeCodeCamp tutorial by Marina Ferreira: https://www.youtube.com/watch?v=ZniVgo8U7ek.
